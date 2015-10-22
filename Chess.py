@@ -180,7 +180,22 @@ def exit_game(board):
 		
 #Print Instructions
 def print_instruction():
+	print "---------------------------------------------------------------------------"
+	print "INSTRUCTIONS"
+	print "---------------------------------------------------------------------------"
 	print "Please select the piece you want to move by calling it out by its address: "
 	print "(i.e., A1, E8, etc.)"
-	
+	print "This is the piece ID key:"
+	print "White Pawns = WP"
+	print "White Knights = WT"
+	print "White Bishops = WB"
+	print "White Rooks = WR"
+	print "White Queen WQ"
+	print "White King = WK"
+	print "Black Pawns = BP"
+	print "Black Knights = BT"
+	print "Black Bishops = BB"
+	print "Black Rooks = BR"
+	print "Black Queen = BQ"
+	print "Black King = BK"
 		
