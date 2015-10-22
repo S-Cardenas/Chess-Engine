@@ -200,4 +200,5 @@ def print_instruction():
 	print "Black Rooks = BR"
 	print "Black Queen = BQ"
 	print "Black King = BK"
+	print "\n"
 		
