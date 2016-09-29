@@ -1,5 +1,9 @@
-# Chess-Engine
-######A 2-player Chess Engine (No A.I.)
-1. This program is a 2 player chess engine coded in Python. (You must play with a friend)
-2. It does not support any AI.
-3. To run the program run main.py in the terminal (MAC) or in powershell (PC).
+##**Chess Python**
+
+Chess Python is a 2 player chess engine coded in Python using functional programming. The game does not have an AI engine yet. You must play with a friend.
+
+##**Instructions**
+To run the program run `python main.py` in the terminal.
+
+##**Views**
+<img src="./imgs/Selection_003.png" width="500px"/>
